@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=rjperes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<!--a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rjperes&style=for-the-badge" alt="My profile views" title="My profile views">
-</a>
+</a-->
