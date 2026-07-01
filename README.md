@@ -1,14 +1,11 @@
 ## 👋 Welcome
 Welcome to my GitHub page!
-I am:
 
-✔️ Software developer from Coimbra, Portugal
+I am a portuguese developer from Coimbra, Portugal, where I graduated in Informatics Engineering from DEI-UC. Just started my PhD in Informatics Engineering at DEI-UC.
 
-✔️ Founding Tech Lead at Evolve Software
+I am currently a Founding Team Lead at Evolve Software Portugal and was awarded as Microsoft Most Valuable Professional (MVP) from 2015-19 and from 2024 again.
 
-✔️ Microsoft MVP in development technologies
-
-✔️ Doing a PhD in multi-agent code generation at the University of Coimbra
+I also wrote a few books, reviewed others, and maintain some open source software.
 
 My interests include:
 
