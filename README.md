@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🌐 Social Links
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow)](https://stackoverflow.com/users/239594/ricardo-peres)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter)](https://x.com/RJPeres75) 
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow)](https://stackoverflow.com/users/239594/ricardo-peres)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X)](https://x.com/RJPeres75) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn)](https://linkedin.com/in/ricardo-peres) 
 [![Blog](https://img.shields.io/badge/Blog-%231DA1F2.svg?logo=Blog)](https://developmentwithadot.blogspot.com/)
 
