@@ -1,11 +1,13 @@
-## 👋 Welcome
+# 👋 Welcome
 Welcome to my GitHub page!
 
-I am a portuguese developer from Coimbra, Portugal, where I graduated in Informatics Engineering from DEI-UC. Just started my PhD in Informatics Engineering at DEI-UC.
+I am a portuguese developer from [Coimbra, Portugal](https://en.wikipedia.org/wiki/Coimbra), where I graduated in Informatics Engineering from [DEI-UC](https://www.uc.pt/fctuc/dei). Doing a PhD in Informatics Engineering also at [DEI-UC](https://www.uc.pt/fctuc/dei).
 
-I am currently a Founding Team Lead at Evolve Software Portugal and was awarded as Microsoft Most Valuable Professional (MVP) from 2015-19 and from 2024 again.
+I am currently a Founding Team Lead at [Evolve Software](https://www.linkedin.com/company/evolve-software1) and was awarded as [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/en-US/mvp/profile/463cea60-c67e-4c83-a80a-e877bbc8248b) from 2015-19 and from 2024 again.
 
-I also wrote a few books, reviewed others, and maintain some open source software.
+I have a [blog](https://weblogs.asp.net/ricardoperes) since 2009 and a more recent [one](https://developmentwithadot.blogspot.com) since 2024, on technical stuff.
+
+I also wrote a few books, reviewed others, and maintain some open source software, which you can find here at GitHub.
 
 My interests include:
 
@@ -30,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌐 Social Links
+# 🌐 Social Links
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow)](https://stackoverflow.com/users/239594/ricardo-peres)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X)](https://x.com/RJPeres75) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn)](https://linkedin.com/in/ricardo-peres) 
