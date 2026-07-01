@@ -1,17 +1,21 @@
 ## 👋 Welcome
 Welcome to my GitHub page!
-
 I am:
 
 ✔️ Software developer from Coimbra, Portugal
+
 ✔️ Founding Tech Lead at Evolve Software
+
 ✔️ Microsoft MVP in development technologies
+
 ✔️ Doing a PhD in multi-agent code generation at the University of Coimbra
 
 My interests include:
 
 ✔️ Distributed systems
+
 ✔️ AI, LLMs and SLMs
+
 ✔️ Design and integration patterns
 
 <!--
