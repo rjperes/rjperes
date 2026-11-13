@@ -7,7 +7,7 @@ I am currently a Founding Team Lead at [Evolve Software](https://www.linkedin.co
 
 I have a [blog](https://weblogs.asp.net/ricardoperes) since 2009 and a more recent [one](https://developmentwithadot.blogspot.com) since 2024, on technical stuff.
 
-I also wrote a few books, reviewed others, and maintain some open source software, which you can find here at GitHub.
+I also wrote a few [books](https://developmentwithadot.blogspot.com/p/books.html), reviewed [others](https://developmentwithadot.blogspot.com/p/books.html), and maintain some [open source software](https://developmentwithadot.blogspot.com/p/open-source-projects.html), which you can find here at [GitHub](https://github.com/rjperes).
 
 My interests include:
 
